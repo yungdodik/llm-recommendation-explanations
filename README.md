@@ -18,7 +18,6 @@ post-hoc recommendation explanation generation across two datasets
 
 - `prompts/` — All prompts used for generation and evaluation
 - `code/` — Jupyter notebook with full pipeline
-- `paper/` — LaTeX source of the paper
 
 ## Requirements
 
